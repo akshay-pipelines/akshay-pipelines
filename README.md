@@ -66,7 +66,7 @@ Cloud & Infra         →   AWS · Docker · GitHub Actions · PostgreSQL
 
 <div align="center">
 
-[![AI Pre-Screen Platform](https://github-readme-stats.vercel.app/api/pin/?username=akshay-pipelines&repo=ai-prescreen-platform&theme=dark&title_color=1A9E99&text_color=cccccc&icon_color=1A9E99&border_color=30363d)](https://github.com/akshay-pipelines/ai-prescreen-platform)
+[![AI Pre-Screen Platform](https://github-readme-stats.vercel.app/api/pin/?username=akshay-pipelines&repo=MultiAgent_ResearchEngine&theme=dark&title_color=1A9E99&text_color=cccccc&icon_color=1A9E99&border_color=30363d)](https://github.com/akshay-pipelines/MultiAgent_ResearchEngine)
 
 </div>
 
